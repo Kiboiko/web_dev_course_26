@@ -23,7 +23,7 @@ end
 # Expected: even_or_odd(4) => "even"
 def even_or_odd(num)
   # TODO: Use condition ? true_value : false_value
-  num % 2 == 0? "even":"odd"
+  num % 2 == 0 ? "even" : "odd"
 end
 
 # Exercise 3: Unless statement (Ruby-specific)
